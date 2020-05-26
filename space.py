@@ -10,3 +10,5 @@ def space():
   
   # Calling the function
   space()
+
+  # Is this code clean enough?
